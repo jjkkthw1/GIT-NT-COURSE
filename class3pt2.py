@@ -41,3 +41,4 @@ else:
     monto_pagar = entrada - descuento
 
     print(f"El monto a pagar es {monto_pagar}")
+	print("Nobody knows me Caracas, no one like  youuuu")
